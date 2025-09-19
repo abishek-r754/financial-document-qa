@@ -23,7 +23,7 @@ This project was built as a fresher-level assignment to demonstrate basic data e
 ## ▶️ How to Run Locally
 1. Install the required packages:
    ```bash
-   
+    pip install streamlit pandas pdfplumber openpyxl
 
 
 Run the app:
